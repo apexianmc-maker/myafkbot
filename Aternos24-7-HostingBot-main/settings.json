@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "BlueMC.org",
-    "port": 19132,
-    "version": "",
+    "port": 25565,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
